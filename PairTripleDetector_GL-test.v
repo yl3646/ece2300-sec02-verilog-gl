@@ -85,7 +85,7 @@ module Top();
     t.test_case_begin( "test_case_2_exhaustive" );
 
     //''' ACTIVITY '''''''''''''''''''''''''''''''''''''''''''''''''''''''
-    // Add checks for exhaustive testing (check all possible inputs)
+    // Add checks for exhaustive testing (checksdhk all possible inputs)
     //''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
     check( 0,0,1,0);
     check(1,0,0,0);
